@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">L4 MusicApp</string>
+    <string name="plyText">Play</string>
+    <string name="stopText">Stop</string>
+</resources>
